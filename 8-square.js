@@ -15,4 +15,4 @@ if (isNaN(arg) || arg === '' || arg === null || arg === undefined) {
             console.log(row);
         }
     }
-
+}
